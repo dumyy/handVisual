@@ -1,2 +1,2 @@
 # handVisual
-a hand model visualization tool for 3d keypoints used openGL
+a naive hand model visualization tool for 3d keypoints with plt
